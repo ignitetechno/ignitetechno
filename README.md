@@ -66,7 +66,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your link)
+- 💼 LinkedIn: [([Add your link](https://www.linkedin.com/company/ignitetechnology))]
 - 📧 Email: (Add your email)
 - 🌐 Portfolio: (If available)
 
