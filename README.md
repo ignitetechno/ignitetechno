@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm ITC Developer</h1>
+<h3 align="center">Backend Developer | Spring Boot | Java | LIS Integration Specialist</h3>
 
-<!--
-**ignitetechno/ignitetechno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on **Hospital LIS Integration Systems**
+- ⚙️ Specialized in **Medical Machine ↔ LIS Integration**
+- 🌐 Experienced in **Spring Boot, Hibernate, REST APIs**
+- 🧠 Working with **HL7, ASTM, Serial Port Communication**
+- 🏥 Building automation for **Hospital & Diagnostic Centers**
+- 📍 Based in Bangladesh
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Backend
+- Java
+- Spring Boot
+- Hibernate / JPA
+- REST API Development
+- WebSocket
+
+### 🗄️ Database
+- MySQL
+- Oracle
+- PostgreSQL
+
+### 🔌 Integration & Networking
+- HL7 Protocol
+- ASTM Protocol
+- TCP/IP Communication
+- Serial Port (COM)
+- Machine Interface Development
+
+### 💻 Tools
+- Git & GitHub
+- IntelliJ IDEA
+- Postman
+- Docker (Basic)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ignitetechno&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignitetechno&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- 🏥 Advanced LIS Machine Integration
+- 📡 Real-time Data Processing Systems
+- 🧩 Custom Medical Device Parser Development
+- 🔐 Secure Healthcare Data Transmission
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (Add your link)
+- 📧 Email: (Add your email)
+- 🌐 Portfolio: (If available)
+
+---
+
+## ⚡ Fun Fact
+
+> I turn medical machine raw data into clean structured clinical results 😄
