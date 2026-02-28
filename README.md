@@ -1,77 +1,104 @@
-<h1 align="center">Hi 👋, I'm ITC Developer</h1>
-<h3 align="center">Backend Developer | Spring Boot | Java | LIS Integration Specialist</h3>
+<h1 align="center">🚀 Robiul Islam</h1>
+<h3 align="center">Healthcare Software Engineer | LIS Integration Architect | Spring Boot Specialist</h3>
+
+<p align="center">
+  <a href="https://github.com/ignitetechno">
+    <img src="https://komarev.com/ghpvc/?username=ignitetechno&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🏥 Who Am I?
 
-- 🔭 Currently working on **Hospital LIS Integration Systems**
-- ⚙️ Specialized in **Medical Machine ↔ LIS Integration**
-- 🌐 Experienced in **Spring Boot, Hibernate, REST APIs**
-- 🧠 Working with **HL7, ASTM, Serial Port Communication**
-- 🏥 Building automation for **Hospital & Diagnostic Centers**
-- 📍 Based in Bangladesh
+I design and build **high-reliability Laboratory Information Systems (LIS)**  
+that connect **Medical Machines ↔ Hospital Software ↔ Databases** seamlessly.
+
+With deep expertise in healthcare integrations, I transform raw diagnostic machine data into structured, production-ready clinical results — with zero data loss.
+
+> I don’t just write code.  
+> I build medical-grade data pipelines.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Expertise
 
-### 🚀 Backend
+🔹 Spring Boot Enterprise Applications  
+🔹 LIS & Medical Device Integration  
+🔹 HL7 & ASTM Protocol Implementation  
+🔹 Serial Port & TCP/IP Communication  
+🔹 Real-Time Result Processing  
+🔹 Secure Healthcare Data Architecture  
+🔹 Transaction Management & Data Integrity  
+🔹 Oracle / MySQL Performance Optimization  
+
+---
+
+## ⚙️ Technology Stack
+
+### 🚀 Backend Engineering
 - Java
 - Spring Boot
 - Hibernate / JPA
-- REST API Development
+- REST API
 - WebSocket
+- Transaction Management
 
-### 🗄️ Database
-- MySQL
-- Oracle
-- PostgreSQL
-
-### 🔌 Integration & Networking
+### 🏥 Medical Integration
 - HL7 Protocol
 - ASTM Protocol
-- TCP/IP Communication
-- Serial Port (COM)
-- Machine Interface Development
+- COM Port Communication
+- Machine Result Parsing
+- Raw Stream Processing
+- ID Mapping & Sample Tracking
 
-### 💻 Tools
+### 🗄️ Databases
+- Oracle
+- MySQL
+- PostgreSQL
+
+### 🛠 Tools & Infrastructure
 - Git & GitHub
 - IntelliJ IDEA
 - Postman
-- Docker (Basic)
+- Docker
+- Linux Server Deployment
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Engineering Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignitetechno&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignitetechno&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ignitetechno&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignitetechno&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🔥 Current Focus
+## 🏗 Current Mission
 
-- 🏥 Advanced LIS Machine Integration
-- 📡 Real-time Data Processing Systems
-- 🧩 Custom Medical Device Parser Development
-- 🔐 Secure Healthcare Data Transmission
+✔ Advanced LIS Server Architecture  
+✔ Real-Time Machine Listener System  
+✔ Zero Data Loss Clinical Processing  
+✔ Secure Hospital Data Pipelines  
+✔ High Availability Result Engines  
+
+---
+
+## 🎯 Professional Vision
+
+To build scalable, secure, and intelligent healthcare integration systems that hospitals can depend on 24/7 without failure.
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/company/ignitetechnology
-- 📧 Email: infoignitetechno@gmail.com
-- 🌐 Portfolio: http://ignitetechno.com/
+- 💼 LinkedIn: (Add your link)
+- 📧 Email: (Add your email)
+- 🌍 Portfolio: (If available)
 
 ---
 
-## ⚡ Fun Fact
+## 🔥 Signature Line
 
-> I turn medical machine raw data into clean structured clinical results 😄
+> Turning diagnostic machine signals into reliable clinical intelligence.
